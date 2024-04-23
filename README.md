@@ -37,7 +37,3 @@ nlp_project_final_report.pdf can be found in the submitted zip file.
 ### Disclaimer
 
 This project is created purely for learning and educational purposes. The content, information, and materials presented herein are intended for academic use only. 
-
-### LLM Disclaimer & References
-
-ChatGPT 3.5 has been used in this project for grammar checks, translation, helping in code debugging, as well as for searching certain Python codes which have not been taught in class. Comments were added to each notebook where ChatGPT was used, including links to the reference code obtained online. 
